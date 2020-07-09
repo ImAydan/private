@@ -1,0 +1,28 @@
+Package: com.imaydan.mainunc0versetup
+Version: 1.0.0
+Filename: /manager/setup/release/com.imaydan.mainunc0versetup_1.0.0_iphoneos-arm.deb
+Architecture: iphoneos-arm
+MD5sum: b22172ca1892b2b88eee9239ef825f3f
+SHA1: d8a45c1e705644610d96703c60dce657ea09f486
+SHA256: cb929b811ddfc5716ada06627b4f2b4f7019c88e9da1b2c56285a1897a2ffdb9
+Size: 140043898
+
+Name: My Main Unc0ver Setup
+Package: com.imaydan.mainunc0versetup
+Version: 1.0.0
+Section: Debs
+Icon: https://imaydan.github.io/manager/cake/icon.png
+Description: My main tweaks for usage with Unc0ver jailbreak.
+Header: https://imaydan.github.io/manager/cake/sileo-depiction.png
+Depiction: https://imaydan.github.io/manager/cake/depiction.html
+SileoDepiction: https://imaydan.github.io/manager/cake/sileo-depiction.json
+Author: ImAydan
+Maintainer: ImAydan
+Homepage: https://imaydan.github.io/
+Filename: /manager/setup/release/com.imaydan.mainunc0versetup_1.0.0_iphoneos-arm.deb
+Architecture: iphoneos-arm
+MD5sum: b22172ca1892b2b88eee9239ef825f3f
+SHA1: d8a45c1e705644610d96703c60dce657ea09f486
+SHA256: cb929b811ddfc5716ada06627b4f2b4f7019c88e9da1b2c56285a1897a2ffdb9
+Size: 140043898
+Installed-Size: 140046336

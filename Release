@@ -1,0 +1,8 @@
+Label: Aydan's Private Repo
+Origin: Aydan's Private Repo
+Version: 1.0
+Description: My Private Repo
+Components: main
+Architectures: iphoneos-arm
+Suite: stable
+Codename: ios
